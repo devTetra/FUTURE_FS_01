@@ -1,0 +1,84 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&family=Outfit:wght@100..900&display=swap");
+@import "tailwindcss";
+
+@theme {
+  /* Font Families */
+  --font-heading: "Outfit", sans-serif;
+  --font-body: "Inter", sans-serif;
+  --font-highlight: "MerriWeather", serif;
+
+  /* Dark Mode */
+  /* Background Colours */
+  --color-background: #282c33;
+  --color-hero-bg: #1f2128;
+  --color-navbar-bg: #2c2c2e;
+  --color-card-bg: #3b4252;
+
+  /* Primary Colours*/
+  --color-primary: #bfa8e4;
+  --color-primary-hover: #a78bda;
+  --color-primary-muted: #c8b6e4;
+
+  /* Accent Colours */
+  --color-accent: #4fd1c5;
+  --color-accent-hover: #3cb3a9;
+
+  /* Text */
+  --color-text: #eceff4;
+  --color-muted: #4c566a;
+  --color-offwhite: #9ca3af;
+  --color-foreground: #d1dae9;
+  /* --color-offwhite: #e5e7eb; */
+
+  /* Borders & Lines */
+  --color-border: #3b3f4a;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+html,
+body {
+  overflow-x: hidden;
+}
+
+.small-heading {
+  @apply text-primary tracking-wider uppercase;
+}
+
+.section {
+  @apply flex flex-col gap-8 px-8 py-16 md:px-24;
+}
+
+.type::after {
+  content: "|";
+  animation: cursor 1.1s infinite step-start;
+  @apply text-primary ml-px font-medium;
+}
+
+.project-links {
+  @apply text-offwhite hover:text-primary transition;
+}
+
+.label-links {
+  @apply text-foreground mb-2 block text-sm font-medium;
+}
+
+.contact-links {
+  @apply border-border bg-background focus:border-primary focus:ring-primary w-full rounded-xl border px-4 py-3 text-sm outline-none focus:ring-1;
+}
+
+.form-group {
+  @apply flex w-full flex-col gap-2;
+}
+
+.toggle {
+  @apply hover:bg-primary-hover inline rounded py-2 pl-2 transition duration-300;
+}
+
+@keyframes cursor {
+  50% {
+    opacity: 0;
+  }
+}

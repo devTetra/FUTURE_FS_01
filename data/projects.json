@@ -1,0 +1,20 @@
+{
+  "projects": [
+    {
+      "title": "Advice Generator",
+      "desc": "A small, interactive app that fetches and displays random advice with each click. Built to practice working with APIs, handling asynchronous requests, and creating a clean, minimal UI.",
+      "stack": ["React", "Tailwind", "API"],
+      "github": "https://github.com/devTetra/advice-generator-main",
+      "demo": "https://advice-generator-main-red.vercel.app/",
+      "img": "../src/assets/img/projects/advice-generator-desktop.png"
+    },
+    {
+      "title": "Tip Calculator",
+      "desc": "A responsive tip calculator app that helps users quickly split bills and calculate tips. Focused on form handling, custom validation, and building an intuitive, mobile-friendly interface.",
+      "stack": ["React", "Bootstrap"],
+      "github": "https://github.com/devTetra/tip-calculator-main",
+      "demo": "https://tip-calculator-main-tan.vercel.app/",
+      "img": "../src/assets/img/projects/tip-calculator-desktop.png"
+    }
+  ]
+}

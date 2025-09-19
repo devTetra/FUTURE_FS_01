@@ -1,0 +1,24 @@
+{
+  "experience": [
+    {
+      "title": "Full Stack Web Development Intern",
+      "company": "Future Interns",
+      "date": "Sep 2025 – Oct 2025",
+      "location": "Remote, Nigeria",
+      "contributions": [
+        "Currently working on fullstack projects (details to come)."
+      ]
+    },
+    {
+      "title": "Frontend Intern",
+      "company": "ChamsSwitch Ltd.",
+      "date": "Jan 2024 - June 2024",
+      "location": "Lagos, Nigeria",
+      "contributions": [
+        "Implemented and contributed to the redevelopment of ChamsSwitch’s company website alongside team members, creating a 100% responsive UI with reusable components.",
+        "Worked on building interactive UI elements such as accordions, carousels, sticky menus, and form validation to enhance the user experience.",
+        "Gained experience with API integration and event handling, retrieving and posting data to backends and adding dynamic functionality to the application."
+      ]
+    }
+  ]
+}
