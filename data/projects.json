@@ -6,7 +6,7 @@
       "stack": ["React", "Tailwind", "API"],
       "github": "https://github.com/devTetra/advice-generator-main",
       "demo": "https://advice-generator-main-red.vercel.app/",
-      "img": "../src/assets/img/projects/advice-generator-desktop.png"
+      "img": "../projects//advice-generator-desktop.png"
     },
     {
       "title": "Tip Calculator",
@@ -14,7 +14,7 @@
       "stack": ["React", "Bootstrap"],
       "github": "https://github.com/devTetra/tip-calculator-main",
       "demo": "https://tip-calculator-main-tan.vercel.app/",
-      "img": "../src/assets/img/projects/tip-calculator-desktop.png"
+      "img": "../projects/tip-calculator-desktop.png"
     }
   ]
 }
