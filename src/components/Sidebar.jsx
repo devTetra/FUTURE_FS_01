@@ -16,7 +16,11 @@ const Sidebar = () => {
       label: "LinkedIn",
     },
     { ico: faEnvelope, link: "mailto:tre.ejike@gmail.com", label: "Email" },
-    { ico: faFilePdf, link: "https://devTetra", label: "Resume" },
+    {
+      ico: faFilePdf,
+      link: "https://drive.google.com/file/d/1l7GOH-MfU6G1mbNC0_ArOU9TJIym1RtJ/view?usp=drive_link",
+      label: "Resume",
+    },
   ];
   return (
     <aside className="fixed z-0 mt-8 hidden flex-col items-center gap-4 pl-6 md:flex">
