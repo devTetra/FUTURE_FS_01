@@ -1,5 +1,5 @@
 import { useState } from "react";
-import profile from "../assets/img/profile.jpg";
+import profile from "../assets/img/profile.JPG";
 import { TypeAnimation } from "react-type-animation";
 
 const Hero = () => {
