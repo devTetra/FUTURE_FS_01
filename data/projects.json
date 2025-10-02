@@ -6,7 +6,7 @@
       "stack": ["React", "Tailwind", "API"],
       "github": "https://github.com/devTetra/advice-generator-main",
       "demo": "https://advice-generator-main-red.vercel.app/",
-      "img": "../projects//advice-generator-desktop.png"
+      "img": "../projects/advice-generator-desktop.png"
     },
     {
       "title": "Tip Calculator",
@@ -15,6 +15,14 @@
       "github": "https://github.com/devTetra/tip-calculator-main",
       "demo": "https://tip-calculator-main-tan.vercel.app/",
       "img": "../projects/tip-calculator-desktop.png"
+    },
+    {
+      "title": "Fylo Landing Page",
+      "desc": "A static, modern, and responsive practice project for Fylo, showcasing its features and call-to-action sections. Built with semantic HTML and CSS, it emphasizes clean layout, accessibility, and adaptability across devices.",
+      "stack": ["HTML", "CSS"],
+      "github": "https://github.com/devTetra/fylo-landing-page-column",
+      "demo": "https://devtetra.github.io/fylo-landing-page-column/",
+      "img": "../projects/fylo-landing-page-desktop.png"
     }
   ]
 }

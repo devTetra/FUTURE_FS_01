@@ -74,7 +74,7 @@ const Navbar = () => {
           <div className="my-8 flex flex-col gap-8 md:hidden">
             <div className="order-last self-center transition duration-300 hover:scale-105">
               <a
-                href="https://drive.google.com/file/d/1l7GOH-MfU6G1mbNC0_ArOU9TJIym1RtJ/view?usp=drive_link"
+                href="https://drive.google.com/file/d/19jKROCy-F9kbf9DXf9a5ZH7eGJeB5KGq/view?usp=drive_link"
                 target="_blank"
                 className="bg-primary text-hero-bg hover:bg-primary-hover font-heading cursor-pointer rounded-2xl border-2 border-transparent px-4 py-3 font-semibold shadow-sm"
               >

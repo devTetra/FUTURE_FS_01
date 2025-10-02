@@ -57,7 +57,7 @@ const Hero = () => {
         <p className="text-offwhite font-body max-w-md text-balance md:text-lg">
           I design and build elegant, user-focused web experiences, from
           responsive interfaces to robust backend systems,that are both
-          functional and beautiful
+          functional and visually engaging
         </p>
 
         <div className="flex flex-col gap-4 md:flex-row lg:gap-6">

@@ -66,12 +66,12 @@ function App() {
               className="space-y-4 text-lg leading-relaxed"
             >
               <p>
-                I’m a fullstack developer focused on creating responsive,
-                user-friendly websites that work seamlessly across devices. On
-                the frontend, I enjoy crafting clean, intuitive interfaces with
-                React and Tailwind. On the backend, I work with Express and
-                MongoDB to build APIs and manage data, bringing both structure
-                and functionality to my projects.
+                I’m a developer focused about crafting responsive, user-friendly
+                websites. On the frontend, I enjoy building clean, intuitive
+                interfaces with React and Tailwind. On the backend, I’ve started
+                working with Express and MongoDB and continue to grow my
+                experience by creating projects that bring more structure and
+                functionality to my work.
               </p>
 
               <p>
@@ -192,7 +192,7 @@ function App() {
                 aClass="text-muted hover:text-accent  transition duration-300 hover:scale-110"
               />
               <a
-                href="https://drive.google.com/file/d/1l7GOH-MfU6G1mbNC0_ArOU9TJIym1RtJ/view?usp=drive_link"
+                href="https://drive.google.com/file/d/19jKROCy-F9kbf9DXf9a5ZH7eGJeB5KGq/view?usp=drive_link"
                 target="_blank"
                 className="bg-primary text-background hover:bg-primary-hover/80 mt-4 inline-flex w-fit items-center gap-2 rounded-xl px-6 py-3 font-semibold shadow-lg transition duration-300 hover:scale-105"
               >
