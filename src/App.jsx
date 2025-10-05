@@ -192,7 +192,7 @@ function App() {
                 aClass="text-muted hover:text-accent  transition duration-300 hover:scale-110"
               />
               <a
-                href="https://drive.google.com/file/d/1_oUZHCP8F18HlSfO7W29-GxqA-ihKa1j/view?usp=drive_link"
+                href="https://drive.google.com/file/d/1VgNRGaNtbel7_0537LhzbCaMolrBJ3Qu/view?usp=drive_link"
                 target="_blank"
                 className="bg-primary text-background hover:bg-primary-hover/80 mt-4 inline-flex w-fit items-center gap-2 rounded-xl px-6 py-3 font-semibold shadow-lg transition duration-300 hover:scale-105"
               >
