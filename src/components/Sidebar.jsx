@@ -18,7 +18,7 @@ const Sidebar = () => {
     { ico: faEnvelope, link: "mailto:tre.ejike@gmail.com", label: "Email" },
     {
       ico: faFilePdf,
-      link: "https://drive.google.com/file/d/1VgNRGaNtbel7_0537LhzbCaMolrBJ3Qu/view?usp=drive_link",
+      link: "https://drive.google.com/file/d/1M5TwN78E-rHJQcJI8HmEwzvMUHt7eGl_/view",
       label: "Resume",
     },
   ];
