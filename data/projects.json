@@ -2,7 +2,7 @@
   "projects": [
     {
       "title": "Aureo",
-      "desc": "A modern, minimalist e-commerce website concept designed to highlight products with elegance and clarity. Features include a responsive layout, product grid, product details page, cart system, and user authentication. Built with React, Tailwind CSS, and integrated with a backend for product and cart management.",
+      "desc": "A modern mini e-commerce app for home goods, with product browsing, cart management, and checkout. Utilizes RESTful APIs for data handling and Context API for managing global state and user sessions.",
       "stack": ["React", "Tailwind CSS", "Node js", "Express", "MongoDB"],
       "github": "https://github.com/devTetra/FUTURE_FS_02/",
       "demo": "https://future-fs-02-theta.vercel.app/",
